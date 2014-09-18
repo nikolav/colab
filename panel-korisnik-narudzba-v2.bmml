@@ -126,14 +126,14 @@
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="1" w="176" h="152" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="113"/>
         <control controlID="1" controlTypeID="__group__" x="183" y="0" w="262" h="157" measuredW="262" measuredH="157" zOrder="1" locked="false" isInGroup="113">
           <groupChildrenDescriptors>
-            <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="1" y="0" w="253" h="-1" measuredW="185" measuredH="38" zOrder="0" locked="false" isInGroup="1">
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="1" y="0" w="-1" h="-1" measuredW="170" measuredH="38" zOrder="0" locked="false" isInGroup="1">
               <controlProperties>
                 <align>left</align>
                 <bold>true</bold>
                 <color>6710886</color>
                 <italic>true</italic>
                 <size>28</size>
-                <text>Karadjordjeva</text>
+                <text>Kara%u0111or%u0111eva</text>
                 <underline>false</underline>
               </controlProperties>
             </control>
