@@ -5,51 +5,7 @@
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Button" x="114" y="754" w="131" h="43" measuredW="133" measuredH="38" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10470904</color>
-        <icon>CartIcon%7Cmedium</icon>
-        <italic>false</italic>
-        <menuIcon>true</menuIcon>
-        <size>18</size>
-        <state>up</state>
-        <text>promet</text>
-        <underline>false</underline>
-      </controlProperties>
-    </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::Button" x="1114" y="754" w="131" h="43" measuredW="107" measuredH="31" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <color>10470904</color>
-        <icon>BaloonIcon%7Csmall</icon>
-        <italic>true</italic>
-        <menuIcon>true</menuIcon>
-        <size>20</size>
-        <state>up</state>
-        <text>chat</text>
-      </controlProperties>
-    </control>
-    <control controlID="101" controlTypeID="com.balsamiq.mockups::Button" x="760" y="754" w="131" h="43" measuredW="118" measuredH="30" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10470904</color>
-        <icon>CellBarsIcon%7Csmall</icon>
-        <menuIcon>true</menuIcon>
-        <size>18</size>
-        <state>up</state>
-        <text>status</text>
-      </controlProperties>
-    </control>
-    <control controlID="102" controlTypeID="com.balsamiq.mockups::Button" x="433" y="754" w="131" h="43" measuredW="130" measuredH="30" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>10470904</color>
-        <icon>DataBaseIcon%7Csmall</icon>
-        <menuIcon>true</menuIcon>
-        <size>18</size>
-        <state>up</state>
-        <text>ponuda</text>
-      </controlProperties>
-    </control>
-    <control controlID="104" controlTypeID="__group__" x="114" y="178" w="38" h="32" measuredW="38" measuredH="32" zOrder="6" locked="true" isInGroup="-1">
+    <control controlID="104" controlTypeID="__group__" x="114" y="178" w="38" h="32" measuredW="38" measuredH="32" zOrder="3" locked="true" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="38" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="104">
           <controlProperties>
@@ -77,7 +33,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="107" controlTypeID="__group__" x="281" y="301" w="795" h="380" measuredW="795" measuredH="380" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="107" controlTypeID="__group__" x="278" y="277" w="795" h="380" measuredW="795" measuredH="380" zOrder="4" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="117" h="116" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="107">
           <controlProperties>
@@ -246,7 +202,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="125" controlTypeID="__group__" x="433" y="175" w="97" h="42" measuredW="97" measuredH="42" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="125" controlTypeID="__group__" x="433" y="175" w="96" h="42" measuredW="96" measuredH="42" zOrder="5" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="55" h="42" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="125">
           <controlProperties>
@@ -257,7 +213,7 @@
             <shape>star</shape>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="55" y="8" w="-1" h="-1" measuredW="42" measuredH="27" zOrder="1" locked="false" isInGroup="125">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="55" y="8" w="-1" h="-1" measuredW="41" measuredH="27" zOrder="1" locked="false" isInGroup="125">
           <controlProperties>
             <bold>true</bold>
             <italic>true</italic>
@@ -291,7 +247,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="134" controlTypeID="__group__" x="1013" y="176" w="234" h="36" measuredW="234" measuredH="36" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="134" controlTypeID="__group__" x="1011" y="178" w="234" h="36" measuredW="234" measuredH="36" zOrder="6" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="1" w="-1" h="-1" measuredW="48" measuredH="30" zOrder="0" locked="false" isInGroup="134">
           <controlProperties>
@@ -312,7 +268,7 @@
             <text/>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="60" y="3" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="2" locked="false" isInGroup="134">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="60" y="3" w="-1" h="-1" measuredW="120" measuredH="27" zOrder="2" locked="false" isInGroup="134">
           <controlProperties>
             <align>right</align>
             <bold>true</bold>
@@ -328,6 +284,54 @@
             <backgroundAlpha>1</backgroundAlpha>
             <color>10470904</color>
             <icon>UserIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="135" controlTypeID="__group__" x="114" y="754" w="1131" h="43" measuredW="1131" measuredH="43" zOrder="2" locked="true" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="131" h="43" measuredW="134" measuredH="38" zOrder="0" locked="false" isInGroup="135">
+          <controlProperties>
+            <color>10470904</color>
+            <icon>CartIcon%7Cmedium</icon>
+            <italic>false</italic>
+            <menuIcon>true</menuIcon>
+            <size>18</size>
+            <state>up</state>
+            <text>promet</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="1000" y="0" w="131" h="43" measuredW="109" measuredH="32" zOrder="1" locked="false" isInGroup="135">
+          <controlProperties>
+            <align>center</align>
+            <color>10470904</color>
+            <icon>BaloonIcon%7Csmall</icon>
+            <italic>true</italic>
+            <menuIcon>true</menuIcon>
+            <size>20</size>
+            <state>up</state>
+            <text>chat</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="646" y="0" w="131" h="43" measuredW="119" measuredH="30" zOrder="2" locked="false" isInGroup="135">
+          <controlProperties>
+            <color>10470904</color>
+            <icon>CellBarsIcon%7Csmall</icon>
+            <menuIcon>true</menuIcon>
+            <size>18</size>
+            <state>up</state>
+            <text>status</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="319" y="0" w="131" h="43" measuredW="131" measuredH="30" zOrder="3" locked="false" isInGroup="135">
+          <controlProperties>
+            <color>10470904</color>
+            <icon>DataBaseIcon%7Csmall</icon>
+            <menuIcon>true</menuIcon>
+            <size>18</size>
+            <state>up</state>
+            <text>ponuda</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
